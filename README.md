@@ -1,4 +1,4 @@
-# admin
+https://alex3aguiar.github.io/vue-admin/.
 
 ## Project setup
 ```
